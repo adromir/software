@@ -13,7 +13,7 @@
     "setup_exe": "setup.exe",
     "setup_args": "-y",
     "wait_process": "RadeonSoftware"
-  }
+  },
   {
     "id": 2,
     "name": "Intel Graphics DCH Driver",
@@ -28,7 +28,7 @@
     "setup_exe": "setup.exe",
     "setup_args": "-y",
     "wait_process": "Installer"
-  }
+  },
   {
     "id": 3,
     "name": "nVidia Geforce Game Ready Driver",
@@ -63,7 +63,7 @@
     "id": 5,
     "name": "Intel Network Drivers",
     "category": "Driver",
-    "version": "26.2"
+    "version": "26.2",
     "url":  "https://www.intel.de/content/www/de/de/download/15084/intel-ethernet-adapter-complete-driver-pack.html",
     "referer": "https://downloadmirror.intel.com/681886/26_6.zip",
     "save_as": "26_6.zip",
