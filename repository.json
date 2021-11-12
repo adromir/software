@@ -93,7 +93,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "WiFi-22.80.1-Driver64-Win10-Win11.exe",
-    "setup_args": "",
+    "setup_args": "-s -A -s",
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setuprst.exe",
-    "setup_args": "",
+    "setup_args": "-s -A -s",
   },
   {
     "id": 8,
