@@ -13,7 +13,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setup.exe",
-    "setup_args": "-y",
+    "setup_args": "-INSTALL -OUTPUT screen",
   },
   {
     "id": 2,
