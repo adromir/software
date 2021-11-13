@@ -303,4 +303,19 @@
     "setup_exe": "Start11-fs-setup_sd.exe",
     "setup_args": "",
   },
-]
+    {
+    "id": 20,
+    "name": "SmartGit",
+    "category": "Windows, Customisation",
+    "version": "21.1.3",
+    "date": "2021-10-29",
+    "url":  "https://www.syntevo.com/downloads/smartgit/smartgit-win-21_1_3.zip",
+    "referer": "https://www.stardock.com/products/start11/download",
+    "save_as": "smartgit-21_1_3-setup.exe",
+    "unzip": true,
+    "unzip_folder": "smartgit",
+    "unzip_args": "",
+    "exec_before_install": "",
+    "setup_exe": "smartgit-21_1_3-setup.exe",
+    "setup_args": "",
+  }
