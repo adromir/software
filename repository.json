@@ -13,7 +13,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setup.exe",
-    "setup_args": "-INSTALL -OUTPUT screen",
+    "setup_args": "-INSTALL -OUTPUT screen"
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setup.exe",
-    "setup_args": "-s -A -s",
+    "setup_args": "-s -A -s"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setup.exe",
-    "setup_args": "-noreboot -clean -noeula -nofinish -passive",
+    "setup_args": "-noreboot -clean -noeula -nofinish -passive"
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setupchipset.exe",
-    "setup_args": "-s -norestart -downgrade",
+    "setup_args": "-s -norestart -downgrade"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "Autorun.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 6,
@@ -93,7 +93,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "WiFi-22.80.1-Driver64-Win10-Win11.exe",
-    "setup_args": "-s -A -s",
+    "setup_args": "-s -A -s"
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setuprst.exe",
-    "setup_args": "-s -A -s",
+    "setup_args": "-s -A -s"
   },
   {
     "id": 8,
@@ -125,7 +125,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "CLJM478f-M479f_UW_Full_WebPack_48.4.4597.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 9,
@@ -141,7 +141,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "upd-ps-x64-7.0.1.24923.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 10,
@@ -157,7 +157,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "upd-pcl6-x64-7.0.1.24923.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 11,
@@ -173,7 +173,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "HPUFD_Driver_2_0_212.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 12,
@@ -189,7 +189,7 @@
     "unzip_args": "",
     "exec_before_install": "QTTabBarEnabler.exe",
     "setup_exe": "QTTabBarEnabler.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 13,
@@ -205,7 +205,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "wfc6setup.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 14,
@@ -221,7 +221,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "SteamSetup.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "setup_galaxy_2.0.43.71a.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 16,
@@ -253,7 +253,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "EpicInstaller-13.0.0.msi",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 17,
@@ -269,7 +269,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "OriginSetup.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
   {
     "id": 18,
@@ -285,7 +285,7 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "Start11-fs-setup_sd.exe",
-    "setup_args": "",
+    "setup_args": ""
   },
     {
     "id": 19,
@@ -301,6 +301,6 @@
     "unzip_args": "",
     "exec_before_install": "",
     "setup_exe": "smartgit-21_1_3-setup.exe",
-    "setup_args": "",
+    "setup_args": ""
   }
 ]
