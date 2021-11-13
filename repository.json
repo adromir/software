@@ -161,22 +161,6 @@
   },
   {
     "id": 11,
-    "name": "HP Universal Print Driver for Windows PCL6 (64-bit)",
-    "category": "Drivers, Printer",
-    "version": "7.0.1.24923",
-    "date": "2021-10-06",
-    "url":  "https://ftp.hp.com/pub/softlib/software13/COL40842/ds-99374-24/upd-pcl6-x64-7.0.1.24923.exe",
-    "referer": "https://support.hp.com/de-de/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514",
-    "save_as": "upd-pcl6-x64-7.0.1.24923.exe",
-    "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
-    "setup_exe": "upd-pcl6-x64-7.0.1.24923.exe",
-    "setup_args": "",
-  },
-  {
-    "id": 12,
     "name": "Universeller HP Faxtreiber für Windows",
     "category": "Drivers, Fax",
     "version": "2.0.212",
@@ -192,7 +176,7 @@
     "setup_args": "",
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "QTTabBar",
     "category": "Windows, Customisation",
     "version": "2048b2",
@@ -208,7 +192,7 @@
     "setup_args": "",
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Windows Firewall Control",
     "category": "Network, Security",
     "version": "6.7.0.0",
@@ -224,7 +208,7 @@
     "setup_args": "",
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Steam Client",
     "category": "Gaming, Clients",
     "version": "2.10.91.91",
@@ -240,7 +224,7 @@
     "setup_args": "",
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "GoG Galaxy offline Installer",
     "category": "Gaming, Client",
     "version": "2.0.43.71",
@@ -256,7 +240,7 @@
     "setup_args": "",
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "Epic Games Offline Installer",
     "category": "Gaming, Client",
     "version": "13.0.0",
@@ -272,7 +256,7 @@
     "setup_args": "",
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "Origin Offline Installer",
     "category": "Gaming, Client",
     "version": "10.5.106",
@@ -288,7 +272,7 @@
     "setup_args": "",
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "Stardock Start 11",
     "category": "Windows, Customisation",
     "version": "10.5.106",
@@ -304,7 +288,7 @@
     "setup_args": "",
   },
     {
-    "id": 20,
+    "id": 19,
     "name": "SmartGit",
     "category": "Windows, Customisation",
     "version": "21.1.3",
