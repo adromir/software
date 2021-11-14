@@ -10,8 +10,8 @@
     "save_as": "non-whql-radeon-software-adrenalin-2020-21.11.1-win10-win11-64bit-nov3.exe",
     "unzip": true,
     "unzip_folder": "radeon",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "setup.exe",
     "setup_args": "-INSTALL -OUTPUT screen"
   },
@@ -26,8 +26,8 @@
     "save_as": "igfx_win_101.1069.exe",
     "unzip": false,
     "unzip_folder": "intel-gfx",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "setup.exe",
     "setup_args": "-s -A -s"
   },
@@ -42,8 +42,8 @@
     "save_as": "496.49/496.49-notebook-win10-win11-64bit-international-dch-whql.exe",
     "unzip": false,
     "unzip_folder": "nvidia-geforce-ready",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "setup.exe",
     "setup_args": "-noreboot -clean -noeula -nofinish -passive"
   },
@@ -57,9 +57,9 @@
     "referer": "https://www.intel.de/content/www/de/de/download/19347/chipset-inf-utility.html",
     "save_as": "setupchipset.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "setupchipset.exe",
     "setup_args": "-s -norestart -downgrade"
   },
@@ -74,10 +74,10 @@
     "save_as": "26_6.zip",
     "unzip": true,
     "unzip_folder": "intel_network",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "Autorun.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 6,
@@ -89,9 +89,9 @@
     "referer": "https://www.intel.de/content/www/de/de/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html",
     "save_as": "WiFi-22.80.1-Driver64-Win10-Win11.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "WiFi-22.80.1-Driver64-Win10-Win11.exe",
     "setup_args": "-s -A -s"
   },
@@ -105,9 +105,9 @@
     "referer": "https://www.intel.de/content/www/de/de/download/15667/intel-rapid-storage-technology-intel-rst-user-interface-and-driver.html",
     "save_as": "setuprst.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "setuprst.exe",
     "setup_args": "-s -A -s"
   },
@@ -121,11 +121,11 @@
     "referer": "https://support.hp.com/de-de/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514",
     "save_as": "CLJM478f-M479f_UW_Full_WebPack_48.4.4597.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "CLJM478f-M479f_UW_Full_WebPack_48.4.4597.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 9,
@@ -137,11 +137,11 @@
     "referer": "https://support.hp.com/de-de/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514",
     "save_as": "upd-ps-x64-7.0.1.24923.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "upd-ps-x64-7.0.1.24923.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 10,
@@ -153,11 +153,11 @@
     "referer": "https://support.hp.com/de-de/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514",
     "save_as": "upd-pcl6-x64-7.0.1.24923.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "upd-pcl6-x64-7.0.1.24923.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 11,
@@ -169,11 +169,11 @@
     "referer": "https://support.hp.com/de-de/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514",
     "save_as": "HPUFD_Driver_2_0_212.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "HPUFD_Driver_2_0_212.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 12,
@@ -186,10 +186,10 @@
     "save_as": "QTTabBar-2048-Beta2.zip",
     "unzip": true,
     "unzip_folder": "qttabbar-2048",
-    "unzip_args": "",
+    "unzip_args": null,
     "exec_before_install": "QTTabBarEnabler.exe",
     "setup_exe": "QTTabBarEnabler.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 13,
@@ -201,11 +201,11 @@
     "referer": "https://www.binisoft.org/wfc.php",
     "save_as": "wfc6setup.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "wfc6setup.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 14,
@@ -217,11 +217,11 @@
     "referer": "https://store.steampowered.com/about/",
     "save_as": "SteamSetup.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "SteamSetup.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 15,
@@ -233,11 +233,11 @@
     "referer": "https://www.gog.com/galaxy",
     "save_as": "setup_galaxy_2.0.43.71a.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "setup_galaxy_2.0.43.71a.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 16,
@@ -249,11 +249,11 @@
     "referer": "https://www.binisoft.org/wfc.php",
     "save_as": "EpicInstaller-13.0.0.msi",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "EpicInstaller-13.0.0.msi",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 17,
@@ -265,11 +265,11 @@
     "referer": "https://www.origin.com/",
     "save_as": "OriginSetup.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "OriginSetup.exe",
-    "setup_args": ""
+    "setup_args": null
   },
   {
     "id": 18,
@@ -281,11 +281,11 @@
     "referer": "https://www.stardock.com/products/start11/download",
     "save_as": "OriginSetup.exe",
     "unzip": false,
-    "unzip_folder": "",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_folder": null,
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "Start11-fs-setup_sd.exe",
-    "setup_args": ""
+    "setup_args": null
   },
     {
     "id": 19,
@@ -298,9 +298,9 @@
     "save_as": "smartgit-21_1_3-setup.exe",
     "unzip": true,
     "unzip_folder": "smartgit",
-    "unzip_args": "",
-    "exec_before_install": "",
+    "unzip_args": null,
+    "exec_before_install": null,
     "setup_exe": "smartgit-21_1_3-setup.exe",
-    "setup_args": ""
+    "setup_args": null
   }
 ]
